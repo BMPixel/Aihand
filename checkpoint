@@ -1,0 +1,2 @@
+model_checkpoint_path: "para"
+all_model_checkpoint_paths: "para"
